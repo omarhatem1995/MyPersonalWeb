@@ -1,1 +1,1 @@
-{"name":"MyPersonalHelper","short_name":"Helper","start_url":"/MyPersonalHelper/","scope":"/MyPersonalHelper/","display":"standalone","background_color":"#FFF8F3","theme_color":"#FF7A8A","icons":[{"src":"/MyPersonalHelper/icon.png","sizes":"1024x1024","type":"image/png"}]}
+{"name":"MyPersonalHelper","short_name":"Helper","start_url":"/MyPersonalWeb/","scope":"/MyPersonalWeb/","display":"standalone","background_color":"#FFF8F3","theme_color":"#FF7A8A","icons":[{"src":"/MyPersonalWeb/icon.png","sizes":"1024x1024","type":"image/png"}]}
